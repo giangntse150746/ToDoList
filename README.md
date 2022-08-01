@@ -58,6 +58,7 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 ![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
 
 # *Author*
-
+* Soul Levram (giangntse150746, giangntse150746@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/mashimar-2001)
 * Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
